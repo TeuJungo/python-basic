@@ -1,1 +1,1 @@
-sd
+print("Python project")
