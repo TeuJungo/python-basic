@@ -1,1 +1,1 @@
-print("Python projects")
+print("Python project")
