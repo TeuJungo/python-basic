@@ -1,4 +1,1 @@
-print("Python projects is on")
-
-
-
+print("Python projects is on") ;
